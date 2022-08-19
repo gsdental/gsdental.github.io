@@ -15,7 +15,7 @@ h2 {
 	font-size: 36px;
 	font-weight: 300;
 	margin-bottom: 20px;
-	color: #8D1618;
+	color: #CD0E17;
 }
 h3 {
 	font-size: 16px;
@@ -85,7 +85,7 @@ hr {
 }
 #menu a.navbar-brand {
 	font-size: 22px;
-	color: #800202;
+	color: #CD0E17;
 	font-weight: 700;
 }
 #menu a.navbar-brand i.fa {
@@ -98,7 +98,7 @@ hr {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #800202;
+	color: #CD0E17;
 }
 .on {
 	background-color: #1D201D !important;
@@ -112,8 +112,8 @@ hr {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #A0A0A0;
-	border-color: #890707;
+	background-color: #CD0E17;
+	border-color: #CD0E17;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #890707;
@@ -152,11 +152,11 @@ header p {
 
 }
 .color {
-	color: #919191;
+	color: #6C6C6C;
 	font-weight: 700;
 }
 .btn-default {
-	color: #890707;
+	color: #DA010C;
 	font-family: 'Open Sans', sans-serif;
 	background-color: transparent;
 	border: 1px solid #919191;
@@ -166,7 +166,7 @@ header p {
 	transition: all 0.5s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	background-color: #800202;
+	background-color: #9B0E15;
 	border: 1px solid #919191;
 	color: #919191;
 }
@@ -176,7 +176,7 @@ header p {
 	background-color: #DEDEDE;
 }
 #about-section h4 {
-	border-bottom: 1px solid #919191;
+	border-bottom: 1px solid #CD0E17;
 	padding-bottom: 20px;
 	display: inline-block;
 }
@@ -193,7 +193,7 @@ header p {
 	padding: 30px 0;
 }
 #team-section h3 {
-	border-top: 1px solid #CB0303;
+	border-top: 1px solid #CD0E17;
 	padding-top: 20px;
 	display: inline-block;
 }
@@ -218,7 +218,7 @@ img.team-img {
 
 
 #services-section h4 {
-	border-bottom: 1px solid #A9A9A9;
+	border-bottom: 1px solid #CD0E17;
 	padding-bottom: 20px;
 	display: inline-block;
 }
@@ -230,7 +230,7 @@ img.team-img {
 #services-section i.fa {
 	font-size: 36px;
 	margin-right: 20px;
-	color: #740303;
+	color: #CD0E17;
 	padding-bottom: 10px;
 	display: block;
 }
@@ -248,20 +248,20 @@ ul.cat li {
 }
 ol.type li {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 30px;
 }
 ol.type li a {
 	color: #919191;
 }
 ol.type li a.active {
-	color: #919191;
-	border-bottom: 1px solid #BC0000;
-	padding-bottom: 8px;
+	color: #CD0E17;
+	border-bottom: 1px solid #919191;
+	padding-bottom: 0px;
 }
 ol.type li a:hover {
-	color: #919191;
+	color: #CD0E17;
 	border-bottom: 1px solid #919191;
-	padding-bottom: 8px;
+	padding-bottom: 0px;
 }
 .isotope-item {
 	z-index: 2
@@ -347,13 +347,13 @@ ol.type li a:hover {
 /* Contact Section */
 #contact-section {
 	padding: 100px 0;
-	background-color: #f6f6f6;
+	background-color: #DEDEDE;
 }
 #contact-section form {
 	padding: 140px 0;
 }
 #contact-section i.fa {
-	color: #71bd46;
+	color: #F30C17;
 	margin-right: 20px;
 }
 label {
@@ -371,7 +371,7 @@ label {
 	color: #555;
 	background-color: #fff;
 	background-image: none;
-	border: 1px solid #ccc;
+	border: 1px solid #CD0E17;
 	border-radius: 2px;
 	-webkit-box-shadow: none;
 	box-shadow: none;
@@ -387,16 +387,16 @@ label {
 }
 #contact-section .btn {
 	background: transparent;
-	border: 1px solid #8C0303;
+	border: 1px solid #CD0E17;
 	border-radius: 4px;
 	padding: 10px 20px;
 	margin-top: 50px;
-	color: #8C0303;
+	color: #CD0E17;
 	font-size: 16px;
 }
 #contact-section .btn:hover, #contact-section .btn:focus {
-	background: #8C0303;
-	color: #fff;
+	background: #CD0E17;
+	color: #A2A2A2;
 }
 #contact-section .text-danger {
 	color: #8C0303;
@@ -424,7 +424,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #social-section .social i.fa {
 	font-size: 30px;
 	padding: 0px 0px;
-	color: #8C0303;
+	color: #CD0E17;
 	transition: all 0.5s;
 }
 #social-section .social i.fa:hover {
@@ -432,7 +432,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer */
 #footer {
-	background-color:#D9D9D9;
+	background-color:#CACACA;
 	color: #545454;
 	padding: 0px  0px 0;
 }
@@ -477,7 +477,7 @@ label {
 #contact {
   background: #3B3B3B url('../img/88.jpg') no-repeat center center;
   background-size: cover;
-  color: #A00606; 
+  color: #CD0E17; 
    width:  100%;
    height: 100%;
 
